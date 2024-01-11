@@ -1,2 +1,3 @@
 #Parallax website
-#click here: 
+
+#click here: https://vivekdeyvd.github.io/parallax_website/
